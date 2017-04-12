@@ -1,2 +1,2 @@
 # demo
-demo - showing autocomplete hang (see bug in autocomplete-extension repo) using vaadin4spring sidebar addon.
+demo - showing autocomplete hang (see bug in autocomplete-extension repo) using vaadin4spring sidebar addon / and/or trying to get crud-ui to work ...

@@ -35,7 +35,7 @@ public class ValoSideBarUI extends AbstractSideBarUI {
         MenuBar menuBar = new MenuBar();
         header.addComponent(menuBar);
 
-        MenuBar.MenuItem settingsItem = menuBar.addItem("", VaadinIcons.WRENCH, null);
+        MenuBar.MenuItem settingsItem = menuBar.addItem("", VaadinIcons.AIRPLANE, null);
 
         MenuBar.MenuItem useLargeIconsItem = settingsItem.addItem("Use large icons", new MenuBar.Command() {
             @Override
